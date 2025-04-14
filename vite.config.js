@@ -8,5 +8,5 @@ export default defineConfig({
     tailwindcss(),
     
   ],
-  base:'/sentence2'
+  base:'/sentence2',
 })
